@@ -119,9 +119,7 @@ perl getAutopomorphic.pl loci/ samples2pop.txt 2 1000 > null_counts.txt
 
 Summarize the `R` values (mean/median/IQR/95% CI) and compute an **empirical p-value** comparing the observed statistic (from the deterministic run) with the null distribution:
 
-[
-p = \frac{1 + #{\text{replicates with } T_{\text{null}} \ge T_{\text{obs}}}}{1 + R}
-]
+p = (1 + # {replicates with T_null ≥ T_obs}) / (1 + R)
 
 * **Observed ≫ null** (small *p*): diagnostics unlikely by chance → supports taxonomic diagnosis.
 * **Observed ~ null**: pattern may arise from sampling/labeling; interpret with caution.

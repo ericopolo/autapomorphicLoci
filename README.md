@@ -146,11 +146,3 @@ If this tool contributes to your work, please cite this repository and also:
 da Cunha Nunes, J.C., Polo, É., Capurucho, J.M.G. et al. **Cryptic diversity in the Amazonian Red-shouldered Tanager (Tachyphonus phoenicius) Swainson 1838 with a neotype designation and revalidation of Tachyphonus saucius Strickland 1844**. J Ornithol (2025). https://doi.org/10.1007/s10336-025-02344-7
 
 ---
-
-## 🛠️ License
-
-Specify your preferred license (e.g., MIT, GPL-3.0) here.
-
----
-
-*Questions or feature requests?* Open an issue or PR.

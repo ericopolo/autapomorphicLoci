@@ -1,6 +1,3 @@
-# autapomorphicLoci
-Script to get autapomorphic loci / SNPs from multiple FASTA alignments.
-
 # Autapomorphy Scanner for Population-Assigned FASTA Loci
 
 **Detect autapomorphic SNPs per population** from a directory of aligned DNA FASTA files (one locus per file), with strict per-site coverage requirements and an optional **permutation (null) mode**.
